@@ -1,4 +1,4 @@
-# Collecting data on employment in the labor market - data werehouse project
+# Collecting data on employment in the labor market - data warehouse project
 
 ## Project contains
 1. **Designed data warehouses** for employment data on the labor market.
